@@ -1,3 +1,21 @@
+# CONTROLE DE CANDIDATOS
+Projeto prático do Programa de Desenvolvimento Fullstack Santander - Java e Angular 2023 | Practical project of the Santander Fullstack Development Program - Java and Angular 2023 | 桑坦德銀行全棧開發計劃實踐項目 - Java 和 Angular 2023
+## 📋 Materiais e métodos utilizados:
+1. Java 19 / OpenJDK 19;
+2. Sistema Operacional Linux Mint Mate 21 "Victoria";
+3. Visual Studio Code.
+### 🔧 Instalação:
+Instalar os materiais e métodos utilizados. Após, fazer um clone do repositório e testar localmente na IDE.
+#### 🛠️ Fonte:
+inserir certificado
+
+
+<div class="row">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" height="40px" />
+  
+<hr>
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
